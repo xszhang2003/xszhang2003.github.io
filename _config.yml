@@ -14,7 +14,7 @@ name                     : &name "Xiaoshuo Zhang"
 description              : &description "personal description"
 url                      : https://xszhang2003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xszhang2003/xszhang2003.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoshuo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "A third-year undergraduate majoring in physics"
+  bio              : "A third-year undergraduate majoring in Physics"
   location         : "Jinan, Shandong, China"
   employer         : "Shandong University"
   uri              : # URL
