@@ -62,9 +62,10 @@ Selected from all freshmen each year because of outstanding academic performance
 
 - Studied the black hole accreting gas using the hydrodynamic numerical simulation program ZEUS.
 
+---
+
 # Knowledge and Skills
 
----
 
 ### Theoretical Knowledge
 
