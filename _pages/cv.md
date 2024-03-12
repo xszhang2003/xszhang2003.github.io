@@ -20,6 +20,8 @@ I am a student distinguished by my exceptional patience and superb ability to le
 
 📧 xiaoshuozhang [AT] mail.sdu.edu.cn
 
+---
+
 # Education
 
 ### Shandong University
@@ -30,6 +32,9 @@ I am a student distinguished by my exceptional patience and superb ability to le
 Selected from all freshmen each year because of outstanding academic performance, about 20/10000
 - **GPA**: 3.92/5.00 (3.82/4.00 in U.S. scale)
 - **Some Major Courses**: Mathematical Analysis II: (97, A+), Electromagnetism: (94/100, A), Theoretical Mechanics: (92/100, A), Quantum Mechanics: (90/100, A)
+
+
+---
 
 # Experience
 
