@@ -38,7 +38,7 @@ Selected from all freshmen each year because of outstanding academic performance
 
 # Experience
 
-### Finite Spin-$S$ Effect in Holstein Primakoff Transformation
+### Finite Spin-$'S'$ Effect in Holstein Primakoff Transformation
 
 *University of Science and Technology of China; Supervised by Prof. Ming Gong.* - (May. 2023 - Present)
 
@@ -51,9 +51,9 @@ Selected from all freshmen each year because of outstanding academic performance
 
 *Shandong University; Supervised by Prof. Xiaotao Hao* - (Oct. 2022 - Oct. 2023)
 
-- Did the mechanical exfoliation and Au-assisted mechanical exfoliation to get monolayer $MoS_2$.
-- Did the measurement of PL spectrum and Raman spectrum of $MoS_2$.
-- Fabricated VdWs heterostructures of $MoS_2$ / $WS_2$.
+- Did the mechanical exfoliation and Au-assisted mechanical exfoliation to get monolayer $'MoS_2'$.
+- Did the measurement of PL spectrum and Raman spectrum of $'MoS_2'$.
+- Fabricated VdWs heterostructures of $'MoS_2'$ / $'WS_2'$.
 - Explored some special properties in moire lattice.
 
 ### Numerical Simulation of Black Hole Accretion
