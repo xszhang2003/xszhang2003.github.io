@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-👋 I’m an undergraduate student majoring in physics at Taishan College, Shandong University.
+I’m an undergraduate student majoring in physics at Taishan College, Shandong University.
 
 I am a student distinguished by my exceptional patience and superb ability to learn independently.
 
 ### **Contact**
 
-📧 xszhang2003 [AT] outlook.com
+xszhang2003[AT]outlook.com
 
-📧 xiaoshuozhang [AT] mail.sdu.edu.cn
+xiaoshuozhang[AT]mail.sdu.edu.cn
 
 ---
 
