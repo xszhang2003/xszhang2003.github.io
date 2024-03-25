@@ -29,10 +29,13 @@ xiaoshuozhang[AT]mail.sdu.edu.cn
 *Undergraduate student in Physics -* (Sep. 2021 - Present)
 
 - **Honor Science Program of Taishan College**
+  
 Selected from all freshmen each year because of outstanding academic performance.
+
 - **GPA**: 3.92/5.00 (**3.82/4.00** in U.S. scale)
 - **Rank**:**8**/23/**~200** (Rank in class / Class size / Physics majors this year)
-- **Some Major Courses**: Mathematical Analysis II: (97, A+), Electromagnetism: (94/100, A), Theoretical Mechanics: (92/100, A), Quantum Mechanics: (90/100, A)
+- **Some Major Courses**:
+  Mathematical Analysis II: (97, A+), Electromagnetism: (94/100, A), Theoretical Mechanics: (92/100, A), Quantum Mechanics: (90/100, A).
 
 
 ---
